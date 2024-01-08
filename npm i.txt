@@ -1,0 +1,90 @@
+node packages: 
+
+-- npm i express mongoose cors dotenv jsonwebtoken bcrypt  
+-- npm i nodemon --save-dev
+
+React packages: 
+
+-- npm i axios hamburger-react react-hot-toast react-icons react-pro-sidebar react-router-dom
+
+Forms Submitions And Validation : 
+
+-- npm install react-hook-form
+-- npm install zod
+-- npm i @hookform/resolvers
+
+
+UI packages use ((Vite)):
+
+#Install Tailwind CSS:
+-- npm i -D tailwindcss postcss autoprefixer
+-- npx tailwindcss init -p
+
+import (1) : 
+/** @type {import('tailwindcss').Config} */
+export default {
+  content: [
+    "./index.html",
+    "./src/**/*.{js,ts,jsx,tsx}",
+  ],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+}
+import (2) : 
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+Ant Design:
+npm install antd --save
+
+
+index.css:
+{
+
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  font-family: 'Almarai', sans-serif;
+  direction: rtl;
+  padding: 0;
+  margin: 0;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Almarai:wght@400;700&display=swap');
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Almarai:wght@400;700&display=swap" rel="stylesheet">
+
+:root {
+  --red: #ff4d4f;
+  --yellow: #ffc107;
+  --green: #16a34a;
+  --orange: #b45309;
+
+}
+
+packages UI:
+
+https://mui.com/material-ui/react-timeline
+
+https://primereact.org/accordion
+
+https://www.hyperui.dev
+
+https://www.flowbite-react.com/docs/components/accordion
+
+https://keen-slider.io/docs#options
+
+
+
