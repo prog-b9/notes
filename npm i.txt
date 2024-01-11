@@ -88,4 +88,5 @@ https://keen-slider.io/docs#options
 
 https://daisyui.com/components/button/
 
+https://www.material-tailwind.com/docs/react/installation
 
