@@ -74,7 +74,7 @@ index.css:
 
 }
 
-packages UI:
+UI Framework:
 
 https://mui.com/material-ui/react-timeline
 
@@ -90,3 +90,6 @@ https://daisyui.com/components/button/
 
 https://www.material-tailwind.com/docs/react/installation
 
+
+State management(Redux Toolkit):
+npm i redux @reduxjs/toolkit react-redux
